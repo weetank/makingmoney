@@ -1,0 +1,2 @@
+recursive-include moneymaker/templates *
+recursive-include moneymaker/static *
